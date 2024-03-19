@@ -5,3 +5,5 @@ add the values
 submit data to database.
 
 pushing into git
+
+create an avatar for the user.
